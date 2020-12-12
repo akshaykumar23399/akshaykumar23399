@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - 🙋🏻‍♂️ My name is Akshay Kumar
+ - 🏫 I'm currently studying Computer Science Engineering at UIET Rohtak in 🇮🇳
+ - 🌱 I’m currently learning Flutter, Python and JS.
+ - 💬 Ask me about HTML, CSS, Java, Python, JavaScript,  Node.JS,MongoDB, Flutter, Dart.
+ - 📫 How to reach me: [✉️Email](mailto:akshaykumar23399@gmail.com) [🔗Website](http://akshaykumar23399.github.io)
+ - ⚡ Fun fact: I'm not real🤞🏻
+
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshaykumar23399&theme=dark)
