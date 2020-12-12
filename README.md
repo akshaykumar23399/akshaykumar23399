@@ -30,7 +30,7 @@
 <a href="https://dev.to/akshaykumar23399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akshaykumar23399" height="30" width="40" /></a>
 <a href="https://twitter.com/akshaykumar2339" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akshaykumar2339" height="30" width="40" /></a>
 <a href="https://instagram.com/akshaykumar23399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshaykumar23399" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/1 9 6 4 0 akshay kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="1 9 6 4 0 akshay kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcbgJqqEojR3eUXO3zMFSkg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="1 9 6 4 0 akshay kumar" height="30" width="40" /></a>
 <a href="https://discord.gg/kalu#4560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="kalu#4560" height="30" width="40" /></a>
 </p>
 
