@@ -13,9 +13,9 @@
 
 - 🤝 I’m learning **English** for **IELTS**
 
-- 👨‍💻 All of my projects are available at [https://akshaykumar23399.github.io/](https://akshaykumar23399.github.io/)
+- 👨‍💻 All of my projects are available at [Profile ](https://github.com/akshaykumar23399)
 
-- 💬 Ask me about **Anything & I will try to help you**
+- 💬 Ask me about **Anything & I will try to help you out**
 
 - 📫 How to reach me **akshaykumar23399@gmail.com**
 
