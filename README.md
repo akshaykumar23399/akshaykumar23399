@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshaykumar2339" target="blank"><img src="https://img.shields.io/twitter/follow/akshaykumar2339?logo=twitter&style=for-the-badge" alt="akshaykumar2339" /></a> </p>
 
-- 🔭 I’m currently working on [Personal website](https://github.com/akshaykumar23399/akshaykumar23399.github.io)
+- 🔭 I’m currently working on [Myself](https://akshaykumar23399.github.io/)
 
 - 🌱 I’m currently learning **How to survive during Covid**
 
