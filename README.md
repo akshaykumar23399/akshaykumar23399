@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **How to survive during Covid**
 
-- 👯 I’m looking to collaborate on **GSOC**
+- 👯 I’m looking for **JOB**
 
 - 🤝 I’m looking for help with **Life**
 
