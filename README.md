@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for **JOB**
 
-- 🤝 I’m learning **English** for **IELTS**
+- 🤝 I’m learning **English** 
 
 - 👨‍💻 All of my projects are available at [Profile ](https://github.com/akshaykumar23399)
 
