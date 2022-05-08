@@ -25,7 +25,7 @@
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-AkshayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/akshaykumar23399)](https://github.com/akshaykumar23399)
+[![Linkedin Badge](https://img.shields.io/badge/-AkshayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshaykumar23399/)](https://www.linkedin.com/in/akshaykumar23399/)
 
 [![Gmail Badge](https://img.shields.io/badge/-akshaykumar23399@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumar23399@gmail.com)](mailto:akshaykumar23399@gmail.com)
 
