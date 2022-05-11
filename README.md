@@ -17,7 +17,7 @@
 
 <br>
 
-✔️ 🤝 I’m currently learning **Python** .<br>
+✔️ 🤝 I’m currently learning **JAVA** .<br>
 
 ✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/akshaykumar23399) . <br>
 
