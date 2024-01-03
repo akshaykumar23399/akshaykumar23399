@@ -7,17 +7,24 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Akshay Kumar**, currently working as Software Developer At AIS **IN** . <br>
+
+ ✔️ 🚀 Computer Programmer | SharePoint Web Developer 💼 | Power Apps & Power Automate Enthusiast 🌐 |                                                                        U.S. Department of State | AIS InfoSource Alumnus 💼 | Expert in Web App Development on AWS 🌐
+
+✔️ I am **Akshay Kumar**, currently working as Computer Programmer (Cloud Solutions Architect, Microsoft Certified: Azure Administrator )                                       At U.S. Department of State **IN** . <br>
+
+✔️ I worked as Software Developer At AIS **IN** . <br> 
+
+✔️ I worked as Software Application Developer | Website Design & Project Manager | IT Specialist  At MS Star Computers PVT LTD **IN** . <br> 
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also started doing competitive programming. <br>
 
 ✔️ I have experience in FULL stack  development .<br>
 
-✔️ I have been the participant of  open-source event such as HacktoberFest'21.
+✔️ I have been the participant of  open-source event such as HacktoberFest'23.
 
 <br>
 
-✔️ 🤝 I’m currently learning **JAVA** .<br>
+✔️ 🤝 I’m currently learning **Software Development • Microsoft Power Apps • Microsoft Power Automate • Microsoft Azure** .<br>
 
 ✔️ 👨‍💻 All of my projects are available at [Profile ](https://github.com/akshaykumar23399) . <br>
 
@@ -25,7 +32,7 @@
 <a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-AkshayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshaykumar23399/)](https://www.linkedin.com/in/akshaykumar23399/)
+[![Linkedin Badge](https://img.shields.io/badge/-AkshayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshaykumardl//)](https://www.linkedin.com/in/akshaykumardl/)
 
 [![Gmail Badge](https://img.shields.io/badge/-akshaykumar23399@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumar23399@gmail.com)](mailto:akshaykumar23399@gmail.com)
 
